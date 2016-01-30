@@ -1,0 +1,10 @@
+This is homework 3for CS 613, by Shangqi Wu.
+
+sw843_HW3.pdf contains solutions to theory problems, p1 to p9. p10.m, p11.m are programs to problem 10 and 11 (part c) and 12 respectively. 
+
+For 2 programs:
+i. All of them fulfill requirements described in homework instruction.
+ii. All of them are written by Matlab 2015b, on OS X 10.11
+iii. Run with Matlab 2015b
+iv. Open p11.m, p11c.m, p12.m and run them with Matlab 2015b in order.
+v. Please make sure the spambase.arff, arffread.m are under the same directory with *.m files.
